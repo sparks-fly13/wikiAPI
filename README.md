@@ -1,2 +1,2 @@
 # wikiAPI
-A RESTful API to which the user has all the access.
+A RESTful API to which the user has all the access. It includes features like "get"-ing the entire database documents, "post"-ing an article with "title" and "content" keys to the API database, "delete"-ing all the documents in the given path as well as path-specific features like "get"-ing the specific article as mentioned in the path, "put"-ing values to or updating the entire given article, "patch"-ing values or updating the specific key's content of a document/article and "delete"-ing the specific document as mentioned in the path.
